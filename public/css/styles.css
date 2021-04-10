@@ -1,0 +1,9 @@
+body {
+    background-color:rgba(180, 197, 81, 0.822);
+}
+
+#chirps,
+#input-form,
+#header {
+    background-color: rgb(145, 163, 43);
+}
